@@ -1,4 +1,4 @@
-![alt text](http://unixetc.co.uk/wp-content/uploads/2019/04/blankmange-768x432.jpg)
+![alt text](http://unixetc.co.uk/wp-content/uploads/2019/04/blankmange-500x281.jpg)
 
 # Blancmange
 A Python progam that uses graphics.py to plot a 3D decaying sinusoid.  (Shaped a bit
