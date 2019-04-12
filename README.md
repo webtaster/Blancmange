@@ -1,4 +1,3 @@
-#![alt text](http://unixetc.co.uk/wp-content/uploads/2019/04/blankmange-1024x576.jpg)
 ![alt text](http://unixetc.co.uk/wp-content/uploads/2019/04/blankmange-768x432.jpg)
 
 # Blancmange
